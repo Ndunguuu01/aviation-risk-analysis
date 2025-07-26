@@ -54,19 +54,19 @@ This project investigates U.S. aviation accident data to help a company evaluate
 
 ### 1. **Bar Chart**: Aircraft Models With Most Accidents
 
-<img src="images/bar" width="400" />
+<img src="images/bar.png" width="400" />
 - Top aircraft: Cessna, Piper, Beech
 - These dominate general aviation use, explaining higher incident frequency
 
 ### 2. **Line Chart**: Aviation Accidents Per Year
 
-<img src="images/chart" width="400" />
+<img src="images/line.png" width="400" />
 - General decline in accidents over time
 - Peak activity in the late 1990s, drop-off after 2010
 
 ### 3. **Pie Chart**: Fatal Accidents by Purpose of Flight
 
-<img src="images/pie" width="400" />
+<img src="images/pie.png" width="400" />
 - Personal and instructional flights account for majority of fatal incidents
 
 ---
