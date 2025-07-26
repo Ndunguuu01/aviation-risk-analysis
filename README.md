@@ -125,7 +125,8 @@ jupyter notebook notebook.ipynb
 
 ## View Dashboard
 
-You can view the Tableau dashboard [here](#) — upload link or embed goes here.
+You can view the Tableau dashboard 
+<img src="images\Aviation Accident Dashboard.png" width="400" />
 
 ---
 
